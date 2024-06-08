@@ -5,9 +5,14 @@
 ### Profile
 
 - 📖 Undergraduate student in Software Department, Sejong Univ. (2020~)
-- 🧑🏻‍🔬 Undergraduate student researcher in [PMLC Lab](https://sites.google.com/view/pmlclab/home) (2023~)
 - 🧑🏻‍💻 [En#](https://github.com/orgs/EnsharpSejong) (2023~)
 - 🎓 KDMHS (2017~2019)
+
+### Career
+
+- 📚 Teaching Assistant - Introduction to Opensource Software (2024-1)
+- 🧑🏻‍🔬 Undergraduate student researcher in [PMLC Lab](https://sites.google.com/view/pmlclab/home) (2023~)
+
 
 ### Current interest
 
