@@ -4,16 +4,16 @@
 
 ### Profile
 
-- 📖 Undergraduate student in Software Department, Sejong Univ. (2020~)
+- 📖 Senior in Software Department, Sejong Univ. (2020~2025)
 - 🧑🏻‍💻 [En#](https://github.com/orgs/EnsharpSejong) (2023~)
 - 🚀 Space Operations Unit - ROKAF (2021~2023)
 - 🎓 KDMHS (2017~2019)
 
 ### Career
 
-- 📚 Teaching Assistant - Introduction to Opensource Software (2024-1)
-- 🧑🏻‍🔬 Undergraduate student researcher in [PMLC Lab](https://sites.google.com/view/pmlclab/home) (2023~)
-
+- 💼 Product Engineering Intern at [Chartmetric](https://github.com/chartmetric) (2025 - Present)
+- 📚 Teaching Assistant - Introduction to Opensource Software (Spring 2024, Spring 2025), Discrete Mathematics and Programming (Fall 2024)
+- 🧑🏻‍🔬 Undergraduate Researcher, [PMLC Lab](https://sites.google.com/view/pmlclab/home) (2023 - 2025)
 
 ### Current interest
 
