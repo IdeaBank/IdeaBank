@@ -2,10 +2,10 @@
 
 ### Profile
 
-- 📖 Senior in Software Department, Sejong Univ. (2020 - Present)
 - 🧑🏻‍💻 [En#](https://github.com/orgs/EnsharpSejong) (2023 - Present)
-- 🚀 Space Operations Unit - ROKAF (2021 - 2023)
-- 🎓 KDMHS (2017 - 2019)
+- 📖 Software Department, Sejong Univ. (2020 - 2021.5, 2023.2 - 2026.2)
+- 🚀 Space Operations Unit - ROKAF (2021.5 - 2023.2)
+- 🎓 Hacking Defense, KDMHS (2017 - 2019)
 
 ### Career
 
